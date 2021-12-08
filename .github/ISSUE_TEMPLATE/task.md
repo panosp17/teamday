@@ -9,6 +9,6 @@ assignees: ''
 
 ## Task Name:
 
-# Description:
-# Acceptance criteria:
-#Estimated time:
+### Description:
+### Acceptance criteria:
+### Estimated time:
